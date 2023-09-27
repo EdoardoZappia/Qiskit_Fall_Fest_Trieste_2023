@@ -19,6 +19,7 @@ The Fall Fest at UniTs this year is going to be an in-person conference and some
   -	Quantum Roadmap: dove siamo e dove stiamo andando?
   - Applicazioni presenti e future del Quantum Computing
   - Quantum Economy: Startups, big tech e dintorni
+
 21th November: Lessons and Practice part
   -	First Steps into Quantum Computing
   - Introduction to Quantum Gates and Circuits with Qiskit
