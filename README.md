@@ -1,7 +1,6 @@
 # Qiskit_Fall_Fest_Trieste_2023
 
-![logo]()
-
+![QFF-logo](https://github.com/EdoardoZappia/Qiskit_Fall_Fest_Trieste_2023/assets/145843623/8255422d-6cdf-42e7-a8cf-e6e011a7ab09)
 
 ## Welcome
 
