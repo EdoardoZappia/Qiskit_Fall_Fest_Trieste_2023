@@ -28,21 +28,33 @@ The Fall Fest at UniTs this year is going to be an in-person conference and some
 
 17:00 - 17:10	Closing ("Core Team")
 
+
 16th November: Lessons and Practice part
+
 First lesson: Introduzione alla computazione quantistica e all'IBM composer
+
 Possible time-slots: 9:00-10:30
+
                      11:00-12:30
 
 Second lesson: Hands on: I primi circuiti con Qiskit e Python
+
 Possible time-slots: 14:00-15:30
+
                      16:00-17:30
 
+
 17th November: Lesson and Qiskit Challenge
+
 Third lesson: Algoritmi quantistici, progetti moderni e avanzati
+
 Possible time-slots: 9:00-10:30
+
                      11:00-12:30
 
+
 Challenge: NO SPOILER
+
 The prize will be the exclusive Qiskit Fall Fest swag pack!!
 
 Disclaimer: time-slots for lessons will be voted by registerd partecipants. Each lesson will be in the most voted slot.
