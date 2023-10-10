@@ -14,10 +14,12 @@ The Fall Fest at UniTs this year is going to be an in-person conference and some
 
 ## Agenda
 
-15th November: Conference
+* 15th November: Conference
 
 14:30 - 15:00	Accredito & Welcome Coffee
+
 15:00 - 15:05	Opening
+
 15:05 - 15:40	Accademia & Quantum
 
 15:40 - 16:25	Quantum Economy, roadmap e applicazioni (Osservatorio Quantum Computing & Communication, IBM, Data Reply)
@@ -27,28 +29,22 @@ The Fall Fest at UniTs this year is going to be an in-person conference and some
 17:00 - 17:10	Closing ("Core Team")
 
 
-16th November: Lessons and Practice part
+* 16th November: Lessons and Practice part
 
 First lesson: Introduzione alla computazione quantistica e all'IBM composer
 
-Possible time-slots: 9:00-10:30
+Possible time-slots: 9:00-10:30    or    11:00-12:30
 
-                     11:00-12:30
+ Second lesson: Hands on: I primi circuiti con Qiskit e Python
 
-Second lesson: Hands on: I primi circuiti con Qiskit e Python
-
-Possible time-slots: 14:00-15:30
-
-                     16:00-17:30
+Possible time-slots: 14:00-15:30   or    16:00-17:30
 
 
-17th November: Lesson and Qiskit Challenge
+* 17th November: Lesson and Qiskit Challenge
 
 Third lesson: Algoritmi quantistici, progetti moderni e avanzati
 
-Possible time-slots: 9:00-10:30
-
-                     11:00-12:30
+Possible time-slots: 9:00-10:30    or    11:00-12:30
 
 
 Challenge: NO SPOILER
