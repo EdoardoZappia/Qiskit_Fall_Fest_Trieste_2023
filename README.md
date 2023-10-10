@@ -17,9 +17,7 @@ The Fall Fest at UniTs this year is going to be an in-person conference and some
 15th November: Conference
 
 14:30 - 15:00	Accredito & Welcome Coffee
-
 15:00 - 15:05	Opening
-
 15:05 - 15:40	Accademia & Quantum
 
 15:40 - 16:25	Quantum Economy, roadmap e applicazioni (Osservatorio Quantum Computing & Communication, IBM, Data Reply)
