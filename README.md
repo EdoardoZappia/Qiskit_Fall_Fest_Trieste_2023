@@ -54,4 +54,4 @@ The prize will be the exclusive Qiskit Fall Fest swag pack!!
 Disclaimer: time-slots for lessons will be voted by registerd partecipants. Each lesson will be in the most voted slot.
 
 ## Registration
-To sign up, register using this form: It will be available soon!
+To sign up, register using this form: (https://docs.google.com/forms/d/e/1FAIpQLSfoMtfJv82lYJeZhr8G2C9ZwXRsKdVIlNKkXxjVFJetjx8xhQ/viewform?usp=sf_link)https://docs.google.com/forms/d/e/1FAIpQLSfoMtfJv82lYJeZhr8G2C9ZwXRsKdVIlNKkXxjVFJetjx8xhQ/viewform?usp=sf_link
