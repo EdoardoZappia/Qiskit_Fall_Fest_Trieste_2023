@@ -56,5 +56,6 @@ Disclaimer: time-slots for lessons will be voted by registerd partecipants. Each
 ## Registration
 To sign up, register using this form: (https://docs.google.com/forms/d/e/1FAIpQLSfoMtfJv82lYJeZhr8G2C9ZwXRsKdVIlNKkXxjVFJetjx8xhQ/viewform?usp=sf_link)https://docs.google.com/forms/d/e/1FAIpQLSfoMtfJv82lYJeZhr8G2C9ZwXRsKdVIlNKkXxjVFJetjx8xhQ/viewform?usp=sf_link
 
-![Locandina_Qiskit_Fall_Fest](https://github.com/EdoardoZappia/Qiskit_Fall_Fest_Trieste_2023/assets/145843623/ca3db356-2e97-43e1-9e8f-5b34452d4b6d)
+
+![Uploading IMG_2696.PNG…]()
 
