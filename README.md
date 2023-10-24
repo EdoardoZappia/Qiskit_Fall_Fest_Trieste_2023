@@ -14,7 +14,7 @@ The Fall Fest at UniTs this year is going to be an in-person conference and some
 
 ## Agenda
 
-* 15th November: Conference
+* 15th November: Conference (Room A Building F)
 
 14:30 - 15:00	Accredito & Welcome Coffee
 
@@ -31,23 +31,23 @@ The Fall Fest at UniTs this year is going to be an in-person conference and some
 
 * 16th November: Lessons and Practice part
 
-First lesson: Introduzione alla computazione quantistica e all'IBM composer
+First lesson (Room 4D Building H2Bis): Introduzione alla computazione quantistica e all'IBM composer
 
 Possible time-slots: 9:00-10:30    or    11:00-12:30
 
- Second lesson: Hands on: I primi circuiti con Qiskit e Python
+Second lesson (Room A Building F): Hands on: I primi circuiti con Qiskit e Python
 
 Possible time-slots: 14:00-15:30   or    16:00-17:30
 
 
 * 17th November: Lesson and Qiskit Challenge
 
-Third lesson: Algoritmi quantistici, progetti moderni e avanzati
+Third lesson (Room C Building F): Algoritmi quantistici, progetti moderni e avanzati
 
 Possible time-slots: 9:00-10:30    or    11:00-12:30
 
 
-Challenge: NO SPOILER
+Challenge (Room A Building F): NO SPOILER
 
 The prize will be the exclusive Qiskit Fall Fest swag pack!!
 
@@ -57,5 +57,6 @@ Disclaimer: time-slots for lessons will be voted by registerd partecipants. Each
 To sign up, register using this form: (https://docs.google.com/forms/d/e/1FAIpQLSfoMtfJv82lYJeZhr8G2C9ZwXRsKdVIlNKkXxjVFJetjx8xhQ/viewform?usp=sf_link)https://docs.google.com/forms/d/e/1FAIpQLSfoMtfJv82lYJeZhr8G2C9ZwXRsKdVIlNKkXxjVFJetjx8xhQ/viewform?usp=sf_link
 
 
-![Uploading IMG_2696.PNG…]()
+
+![IMG_2696](https://github.com/EdoardoZappia/Qiskit_Fall_Fest_Trieste_2023/assets/145843623/6e858734-12c5-40c6-bf64-20ebb3741005)
 
